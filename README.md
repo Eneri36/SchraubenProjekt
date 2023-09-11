@@ -47,4 +47,3 @@ Mit der app.js wird der Server gestartet und das Dashboard ist über localhost:3
 $ node app.js
 
 ```
-# SchraubenProjekt
