@@ -1,0 +1,48 @@
+- Taeglich Daily Scrum durchgefuehrt
+    - Probleme besprochen und Lösungen vorgeschlagen
+
+Tag 1:
+
+- Installation & Einrichtung von Mongoose (Atlas)
+- Express Webserver Installation & Einrichtung
+- Vorfälle:
+    - Mongoose Connection
+    - Kein Public Access
+    - Implemntierung der Test-Daten
+
+Tag 2:
+
+- Live Share (VS-Extension)
+- Secrets.js erstellt (Sensible Daten)
+- FrontEnd,BackEnd,Datenbank zsm gemacht
+- Vermittlung DB => BackEnd => FrontEnd
+- Datenübergabe an Charts
+- Vorfälle:
+    - import & export es6 Module
+    - OverwriteModelError: Cannot overwrite `SchraubenName` model once compiled.
+    - Vermittlung von DB => BackEnd | BackEnd => FrontEnd
+
+Tag 3:
+
+- Projekt runtergezogen von GitHub
+- alle Routen fertig gestellt
+
+Tag 4:
+
+- Git branch probleme :)
+- Zusammen FrontEnd gemacht 
+- Filtermenue angefangen mit Schwierigkeiten 
+
+Tag 5: 
+
+- Filtermenue fertig gestellt
+- Front End fertig gestellt
+- Projekt ist abgeschlossen
+
+Tag 6: 
+
+- Dokumentation fertigstellen
+- Readme fertigstellen
+- Docker container erstellen
+- Docker image in ECR pushen
+- mit ECS/Fargate Container zum laufen bringen
